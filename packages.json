@@ -796,8 +796,8 @@
       "smolder",
       "aff"
     ],
-    "repo": "git://github.com/owickstrom/hyper.git#aff-v4",
-    "version": "v0.8.0"
+    "repo": "git://github.com/owickstrom/hyper.git",
+    "version": "aff-v4"
   },
   "hypertrout": {
     "dependencies": [
