@@ -1882,8 +1882,8 @@
       "argonaut",
       "smolder"
     ],
-    "repo": "git://github.com/owickstrom/purescript-trout.git",
-    "version": "v0.10.0"
+    "repo": "git://github.com/anttih/purescript-trout.git",
+    "version": "update-uri-smolder"
   },
   "tuples": {
     "dependencies": [
