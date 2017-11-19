@@ -797,7 +797,7 @@
       "aff"
     ],
     "repo": "git://github.com/anttih/hyper.git",
-    "version": "master"
+    "version": "6f3733f"
   },
   "hypertrout": {
     "dependencies": [
