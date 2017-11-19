@@ -799,6 +799,16 @@
     "repo": "git://github.com/owickstrom/hyper.git#aff-v4",
     "version": "v0.8.0"
   },
+  "hypertrout": {
+    "dependencies": [
+      "prelude",
+      "console",
+      "hyper",
+      "trout"
+    ],
+    "repo": "git://github.com/owickstrom/hypertrout.git",
+    "version": "v0.9.0"
+  },
   "identity": {
     "dependencies": [
       "foldable-traversable"
@@ -1831,6 +1841,19 @@
     ],
     "repo": "https://github.com/purescript/purescript-transformers.git",
     "version": "v3.4.0"
+  },
+  "trout": {
+    "dependencies": [
+      "prelude",
+      "pathy",
+      "symbols",
+      "uri",
+      "media-types",
+      "argonaut",
+      "smolder"
+    ],
+    "repo": "git://github.com/owickstrom/purescript-trout.git",
+    "version": "v0.10.0"
   },
   "tuples": {
     "dependencies": [
