@@ -797,7 +797,7 @@
       "aff"
     ],
     "repo": "https://github.com/owickstrom/hyper.git",
-    "version": "v0.8.0"
+    "version": "aff-v4"
   },
   "hypertrout": {
     "dependencies": [
@@ -806,7 +806,7 @@
       "hyper",
       "trout"
     ],
-    "repo": "git://github.com/owickstrom/hypertrout.git",
+    "repo": "https://github.com/owickstrom/purescript-hypertrout.git",
     "version": "v0.9.0"
   },
   "identity": {
