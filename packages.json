@@ -986,6 +986,24 @@
     "repo": "https://github.com/purescript-contrib/purescript-machines.git",
     "version": "v4.0.0"
   },
+  "markdown": {
+    "dependencies": [
+      "const",
+      "functors",
+      "lists",
+      "parsing",
+      "partial",
+      "precise",
+      "prelude",
+      "sets",
+      "strings",
+      "strongcheck",
+      "validation",
+      "datetime"
+    ],
+    "repo": "https://github.com/slamdata/purescript-markdown.git",
+    "version": "v11.0.0"
+  },
   "maps": {
     "dependencies": [
       "arrays",
