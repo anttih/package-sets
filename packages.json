@@ -1917,6 +1917,22 @@
     "repo": "https://github.com/natefaubion/purescript-variant.git",
     "version": "v4.0.0"
   },
+  "webaudio": {
+    "dependencies": [
+      "arrays",
+      "foldable-traversable",
+      "lists",
+      "math",
+      "maybe",
+      "random",
+      "tuples",
+      "strings",
+      "eff",
+      "arraybuffer-types"
+    ],
+    "repo": "https://github.com/anttih/purescript-webaudio.git",
+    "version": "master"
+  },
   "websocket-simple": {
     "dependencies": [
       "dom",
