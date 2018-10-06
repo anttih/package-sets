@@ -1438,6 +1438,21 @@
     "repo": "https://github.com/purescript/purescript-proxy.git",
     "version": "v3.0.0"
   },
+  "psc-ide": {
+    "dependencies": [
+      "aff",
+      "argonaut",
+      "arrays",
+      "console",
+      "maybe",
+      "node-child-process",
+      "node-fs",
+      "parallel",
+      "random"
+    ],
+    "repo": "git://github.com/kRITZCREEK/purescript-psc-ide.git",
+    "version": "v13.0.1"
+  },
   "psci-support": {
     "dependencies": [
       "console",
